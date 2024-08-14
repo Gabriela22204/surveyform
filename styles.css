@@ -1,0 +1,42 @@
+body{
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5%;
+}
+h1 {
+    text-align: center;
+    color: rgb(20, 163, 116);
+}
+p {
+    text-align: center;
+    color: grey;
+}
+#survey-form {
+    padding: 40px;
+    background-color:rgb(128, 193, 171);
+    border:2cm;
+}
+
+#name-label {
+    text-align: justify;
+}
+
+#name {
+    text-align: justify;
+    
+}
+.field {
+    text-align: center;
+    padding: 10px ;
+    font-size: large;
+    font-style: initial;
+    flex: auto;
+}
+
+#number {
+    width: 130px;
+}
+
+#age {
+    width: 50px;
+}
