@@ -3,6 +3,11 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 5%;
 }
+.main-box {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
 h1 {
     text-align: center;
     color: rgb(20, 163, 116);
